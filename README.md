@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋 HUANG-Haolun 黄浩伦 is here.
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUANG-Haolun)](https://github.com/anuraghazra/github-readme-stats) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUANG-Haolun&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUANG-Haolun/HUANG-Haolun/output/github-contribution-grid-snake-dark.svg">
