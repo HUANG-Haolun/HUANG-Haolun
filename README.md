@@ -1,25 +1,38 @@
-### Hi there 👋 HUANG-Haolun 黄浩伦 is here.
+[![cooper's stats](https://github-readme-stats-l2ak-8ut7qroas-coopjzs-projects.vercel.app/api?username=coopjz&count_private=true)](https://github.com/coopjz/github-readme-stats)
+[![Top Langs](https://github-readme-stats-l2ak-8ut7qroas-coopjzs-projects.vercel.app/api/top-langs/?username=coopjz&count_private=true&langs_count=8&layout=compact&&hide=C)](https://github.com/coopjz/github-readme-stats)
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%209%20mins-blue)
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUANG-Haolun)](https://github.com/anuraghazra/github-readme-stats) -->
+**I'm a Night 🦉** 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUANG-Haolun&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
+```text
+🌞 Morning                74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+🌆 Daytime                521 commits         ████████░░░░░░░░░░░░░░░░░   31.05 % 
+🌃 Evening                754 commits         ███████████░░░░░░░░░░░░░░   44.93 % 
+🌙 Night                  329 commits         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+```
+📅 **I'm Most Productive on Friday** 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUANG-Haolun/HUANG-Haolun/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HUANG-Haolun/HUANG-Haolun/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuzukiTsuru/YuzukiTsuru/output/github-contribution-grid-snake.svg">
-</picture>
-<!--
-**HUANG-Haolun/HUANG-Haolun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+Monday                   156 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Tuesday                  137 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Wednesday                355 commits         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Thursday                 280 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Friday                   392 commits         ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Saturday                 235 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Sunday                   123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💻 Operating System: 
+Linux                    13 hrs 3 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/6/2025 18:43:45 UTC
+<!--END_SECTION:waka-->
